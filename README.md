@@ -3,6 +3,7 @@ Enigma's Cold War V1 Code base for public use for the DCS Community
 
 
 ***Introduction***
+
 On launch date of Enigma's Dynamic Cold War PVP/PVE Server, we said that if the server failed then we could still be succesful.
 Our thinking was that if other servers saw what concepts we were introducing into DCS and adapted them then we could help push
 things into a better direction.
