@@ -25,9 +25,13 @@ https://discord.gg/3ZMttnKmkh
 https://www.youtube.com/c/@enigma89
 
 Please note that this codebase traded a lot of hands, ALL of the code was made by the following people:
+
 Whosvee (original developer and created the basic frontline + depot system)
+
 Matroshka (V1 lead developer)
+
 Wizard (created slotblocker and bubble protection)
+
 Yink (Current Enigma lead developer, in V1 he created recon and the helicopter mechanics)
 
 ***Notes***
