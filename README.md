@@ -30,7 +30,9 @@ Wizard (created slotblocker and bubble protection)
 Yink (Current Enigma lead developer, in V1 he created recon and the helicopter mechanics)
 
 ***Notes***
+
 This breaks down how the code works:
+
 Hooks/slotblocker - This is the slotblocker, you can configure the rules as you wish
 
 Scripts/EventsSyria.lua - This is the bomber and boat events on Syria. There is a debugger mode for this.
