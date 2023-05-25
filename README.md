@@ -72,6 +72,7 @@ Scripts/Variables.lua - This is what non-developers use to control the mission a
 
 Scripts/yink.lua - This is where attrition and helicopters mechanics exist
 
+You do NOT need Viggensbane. Delete it from loaderlua.
 
 If you run into any issues, I would recommend making sure to update your Moose version you are using. 
 
